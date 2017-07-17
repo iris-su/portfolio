@@ -1,0 +1,32 @@
+html{
+            background-color:beige;
+}
+        
+h1{
+            font-family: 'Josefin Slab', serif;
+            background-color: saddlebrown;
+            color:antiquewhite;
+            padding-top:25px;
+            padding-left:75px;
+            padding-bottom: 30px;
+            font-size: 60px;
+            letter-spacing:8px;
+            align-content: left;
+}
+h2{
+            font-family: 'Zilla Slab', serif;
+            color:saddlebrown;
+            padding-left:25px;
+            
+}
+p{
+            font-family: 'Dosis', sans-serif;
+            padding-left:50px;
+}
+ul,li{
+            font-family: 'Dosis', sans-serif;
+}
+hr{
+            background-color:saddlebrown;
+}
+        
