@@ -1,11 +1,11 @@
 html{
-            background-color:beige;
+            background-color:white;
 }
         
 h1{
             font-family: 'Josefin Slab', serif;
-            background-color: saddlebrown;
-            color:antiquewhite;
+            background-color: cornflowerblue;
+            color:whitesmoke;
             padding-top:25px;
             padding-left:75px;
             padding-bottom: 30px;
@@ -15,7 +15,7 @@ h1{
 }
 h2{
             font-family: 'Zilla Slab', serif;
-            color:saddlebrown;
+            color:cornflowerblue;
             padding-left:25px;
             
 }
@@ -27,11 +27,13 @@ ul,li{
             font-family: 'Dosis', sans-serif;
 }
 hr{
-            background-color:saddlebrown;
+            background-color:cornflowerblue;
 }
-div.navigationbar{
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
+button{
+            padding: 30;
+            font-family: 'Zilla Slab', serif;
+            color:whitesmoke;
+            font-size: 30px;
+            background-color:coral;
 }
         
